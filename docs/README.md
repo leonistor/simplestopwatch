@@ -2,4 +2,4 @@
 
 A simple stopwatch app.
 
-![Screenshot](./Screenshot_1719844033.png | width=300)
+<img src="./Screenshot_1719844033.png" alt="Screenshot" width=300>
