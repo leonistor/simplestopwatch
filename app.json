@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "simple-stopwatch",
-    "slug": "simple-stopwatch",
+    "name": "simplestopwatch",
+    "slug": "simplestopwatch",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -12,9 +12,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.leonistor.simplestopwatch"
     },
     "android": {
+      "package": "com.leonistor.simplestopwatch",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
