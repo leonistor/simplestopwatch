@@ -2,4 +2,4 @@
 
 A simple stopwatch app.
 
-![Screenshot](./Screenshot_1719844033.png | width=300)
+![Screenshot](./Screenshot_1719844033.png|width=300)
