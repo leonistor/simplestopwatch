@@ -1,0 +1,6 @@
+* Layout
+  - responsive
+  - dark mode
+  - timer/countdown switch
+  - about
+  - site
